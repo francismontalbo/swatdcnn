@@ -55,9 +55,7 @@ Inclusion:
 
 ## Pre-trained Weights
 **For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
-<p> The pre-trained weights are the plug and play weights for the SWAT-DCNN model </p>
-
-
+<p>The pre-trained weights are the plug and play weights for the SWAT-DCNN model. This can be used to skip the training and compilation of models for the SWAT-DCNN</p>
 
 ## Environment Setup:
 
