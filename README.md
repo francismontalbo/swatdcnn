@@ -83,7 +83,7 @@ Make sure to save the links under the `/models/` folder.
 
 **In case of any problems, don't hesitate to contact me. I'll be happy to help.**
 
-# NOTICE
+## Citation
 
 This GitHub repository serves as a support for the submitted publication article in **_UNDER REVIEW_**
 
