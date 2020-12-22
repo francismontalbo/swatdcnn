@@ -2,7 +2,9 @@
 Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)
 Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io) 
 
-## Abstract
+## Graphical Abstract
+
+<img src="/graphical_abstract_diverse_coffee.jpg" alt="Stage Wise Aggregated Triple Deep Convolutional Neural Network for Coffee Leaf Diagnosis" width="1000">
 
 
 ## DATASETS
