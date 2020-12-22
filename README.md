@@ -41,8 +41,8 @@ Inclusion:
 
 **LiCoLe**
 <p>Montalbo, Francis Jesmar Perez; Hernandez, Alexander Arsenio (2020) 
-"Classifying Barako coffee leaf diseases using deep convolutional models" 
-_International Journal of Advances in Intelligent Informatics (IJAIN)_
+"Classifying Barako coffee leaf diseases using deep convolutional models"
+  <italic>International Journal of Advances in Intelligent Informatics (IJAIN)</italic>
 [S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</a></p>
 
 Inclusion: 
