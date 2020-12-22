@@ -134,10 +134,59 @@ Make sure to save the links under the `/models/` folder.
   </tr>
   <tr>
     <td>SWAT-DCNN</td>
-    <td>95.98%</td>
-    <td>96.27%</td>
-    <td>95.98%</td>
-    <td>995.91%</td>
+    <td><span style="font-weight:bold">95.98%</span></td>
+    <td><span style="font-weight:bold">96.27%</span></td>
+    <td><span style="font-weight:bold">95.98%</span></td>
+    <td><span style="font-weight:bold">95.91%</span></td>
+  </tr>
+  <tr>
+    <td>Base T-DCNN</td>
+    <td>95.93%</td>
+    <td>96.86%</td>
+    <td>95.93%</td>
+    <td>95.86%</td>
+  </tr>
+   <tr>
+    <td>ResNet50V2</td>
+    <td>92.82%</td>
+    <td>92.51%</td>
+    <td>92.82%</td>
+    <td>92.50%</td>
+  </tr>
+   <tr>
+    <td>Xception</td>
+    <td>93.78%</td>
+    <td>93.31%</td>
+    <td>93.78%</td>
+    <td>93.39%</td>
+  </tr>
+   <tr>
+    <td>InceptionV3</td>
+    <td>94.96%</td>
+    <td>94.69%</td>
+    <td>94.96%</td>
+    <td>94.57%</td>
+  </tr>
+   <tr>
+    <td>VGG19</td>
+    <td>91.96%</td>
+    <td>92.19%</td>
+    <td>91.96%</td>
+    <td>92.04%</td>
+  </tr>
+   <tr>
+    <td>AlexNet</td>
+    <td>81.35%</td>
+    <td>80.06%</td>
+    <td>81.35%</td>
+    <td>80.08%</td>
+  </tr>
+   <tr>
+    <td>LeNet-5</td>
+    <td>71.17%</td>
+    <td>68.35%</td>
+    <td>71.17%</td>
+    <td>69.68%</td>
   </tr>
 </table>
 
