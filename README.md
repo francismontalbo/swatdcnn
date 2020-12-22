@@ -89,7 +89,7 @@ Make sure to save the links under the `/models/` folder.
 
 1. Activate your created virtual environment and enter the main `swatdcnn/` folder.
 
-2. Save the dataset folder inside the `swatdcnn/` as `swatdcnn/dataset/`
+2. Save the dataset folder downloaded from LINK inside the `swatdcnn/` as `swatdcnn/dataset/`
 
 3. Open the `.ipynb` files from the `swatdcnn/models` folder and run the following in your preferred order. The `swatdcnn/models/tdcnn/` is saved for later.
 
