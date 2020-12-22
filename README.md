@@ -51,7 +51,7 @@ Inclusion:
 - [x] Sooty Molds (SM)
 
 
-
+##Pre-trained_Weights
 **For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 
 ***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
@@ -88,7 +88,7 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
-**Pre-trained weights required by the SWAT-DCNN
+**Pre-trained weights required by the SWAT-DCNN @Pre-trained_Weights
 
 **T-DCNN Weights Link
 
