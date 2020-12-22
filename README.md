@@ -51,7 +51,7 @@ Inclusion:
 - [x] Sooty Molds (SM)
 
 
-##Pre-trained_Weights
+## Pre-trained_Weights
 **For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 
 ***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
