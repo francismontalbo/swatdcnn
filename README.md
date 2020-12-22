@@ -5,17 +5,17 @@
 <p>E-mail: francismontalbo@ieee.org</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
-## Graphical Abstract
+## Graphical Abstract :art:
 
 <b>Made with <a target=_blank href="https://draw.io">draw.io</a></b>
 <img src="/graphical_abstract_diverse_coffee.jpg" alt="Stage Wise Aggregated Triple Deep Convolutional Neural Network for Coffee Leaf Diagnosis" width="1000">
 
 
-## DATASETS
+## DATASETS :floppy_disk:
 
 <p>The dataset used for this work came from the following works:</p>
 
-**Please cite or credit their work when using it!** 
+**:warning: Please cite or credit their work when using it!** 
 
 **RoCoLe** 
 <p>Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
@@ -55,16 +55,16 @@ Inclusion:
 - :heavy_check_mark: CLR
 - :heavy_check_mark: Sooty Molds (SM)
 
-***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
-***Please remember to cite their work when using their respective datasets.***
+***:warning: NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
+***:heavy_exclamation_mark: Please remember to cite their work when using their respective datasets.***
 
-## Pre-trained Weights
-**For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
+## Pre-trained Weights :muscle:
+**:warning: For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
 
-## Environment Setup:
+## Environment Setup :computer:
 
-***Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.***
+***:heavy_exclamation_mark: Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.***
 
 :arrow_right: https://www.anaconda.com/
 
@@ -72,7 +72,7 @@ Inclusion:
 
 Activate and access the folder `swatdcnn/` with the included `requirements.txt` file.
 
-**This uses a tensorflow GPU**
+**:warning: The SWAT-DCNN uses the tensorflow GPU**
 
 Afterwards, simply enter the command in the conda CLI `pip install -r requirements.txt`
 
@@ -93,19 +93,19 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
-**For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
+**:heavy_exclamation_mark: For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
-**Make sure to save the links under the** `/models/` folder.
+**:heavy_exclamation_mark: Make sure to save the links under the** `/models/` folder.
 
-## How to use:
+## How to use :octocat:
 
-**Training with the pre-trained weights (RECOMMENDED)** 
+**:heavy_exclamation_mark: Training with the pre-trained weights (RECOMMENDED) :ok_hand:** 
 
 1. Run the system by going to the swatdcnn folder with your created virtual environment activated and enter the command `python swatdcnn.py`
 
 2. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
 
-**Training from scratch**
+**:warning: Training from scratch (May take long hours depending on your PC specs) :hand:**
 
 1. Activate your created virtual environment and enter the main `swatdcnn/` folder.
 
@@ -119,9 +119,9 @@ Once installed, you may either train the models individually with the `.ipynb` n
 
 6. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
 
-**In case of any problems, don't hesitate to contact me. I'll be happy to help.**
+**:heavy_exclamation_mark: In case of any problems, don't hesitate to contact me. I'll be happy to help.**
 
-## Performance Results
+## Performance Results :bar_chart:
 
 <table style="width:100%">
   <tr>
@@ -190,7 +190,7 @@ Once installed, you may either train the models individually with the `.ipynb` n
 </table>
 
 
-## Citation
+## Citation :black_nib:
 
 This GitHub repository serves as a support for the submitted publication article in **_UNDER REVIEW_**
 
