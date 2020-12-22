@@ -93,7 +93,7 @@ Once installed, you may either train the models individually with the `.ipynb` n
 
 **For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
-**Make sure to save the links under the `/models/` folder.**
+**Make sure to save the links under the** `/models/` folder.
 
 ## How to use:
 
