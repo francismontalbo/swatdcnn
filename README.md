@@ -45,8 +45,6 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 
 ** Note ** The following dataset credits still goes to their appropriate owners and collectors
 
-
-
 ## Requirments
 - efficientnet==1.1.1
 - colorama==0.4.3
@@ -60,4 +58,25 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 - scikit-plot
 - scipy
 - tensorflow-gpu==1.14.0
+
+# Requirements:
+
+Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.
+
+https://www.anaconda.com/
+
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
+Activate and access the folder
+
+Then simply enter the command in the conda CLI `pip install -r requirements.txt`
+
+Once installed, you may either the models individually or make use of the pre-trained weights.
+
+
+
+
+
+
+
 
