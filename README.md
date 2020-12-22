@@ -12,10 +12,11 @@ Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io)
 The dataset used for this work came from the following works:
 **Please consider citing their work when using it** 
 
-**RoCoLe** https://data.mendeley.com/datasets/c5yvn32dzg/2
+**RoCoLe** 
+<p>https://data.mendeley.com/datasets/c5yvn32dzg/2
 Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
 “RoCoLe: A robusta coffee leaf images dataset ”, 
-Mendeley Data, V2, doi: 10.17632/c5yvn32dzg.2
+Mendeley Data, V2, doi: 10.17632/c5yvn32dzg.2 </p>
 http://dx.doi.org/10.17632/c5yvn32dzg.2
 
 Inclusion: 
@@ -24,15 +25,15 @@ Inclusion:
 - [x] Red Spider Mites (RSM) 
 
 **BrACoL** https://data.mendeley.com/datasets/yy2k5y8mxg
-Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
+<p>Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
 “BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”, 
-Mendeley Data, V1, doi: 10.17632/yy2k5y8mxg.1
+Mendeley Data, V1, doi: 10.17632/yy2k5y8mxg.1</p>
 http://dx.doi.org/10.17632/yy2k5y8mxg.1
 
 https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
-Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
+<p>Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
 Deep learning for classification and severity estimation of coffee leaf biotic stress. 
-Computers and Electronics in Agriculture, 169, 105162.
+Computers and Electronics in Agriculture, 169, 105162.</p>
 
 Inclusion: 
 - [x] Healthy
@@ -42,10 +43,10 @@ Inclusion:
 - [x] Coffee Leaf Miner (CLM)
 
 **LiCoLe** https://ijain.org/index.php/IJAIN/article/view/495/0
-MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
+<p>MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
 Classifying Barako coffee leaf diseases using deep convolutional models. 
 International Journal of Advances in Intelligent Informatics, 
-[S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. 
+[S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. </p>
 Available at: <https://ijain.org/index.php/IJAIN/article/view/495%7Cto_array%3A0>. 
 doi:https://doi.org/10.26555/ijain.v6i2.495.
 
