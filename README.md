@@ -24,11 +24,11 @@ Inclusion:
 - [x] Coffee Leaf Rust (CLR)
 - [x] Red Spider Mites (RSM) 
 
-**BrACoL** https://data.mendeley.com/datasets/yy2k5y8mxg
-<p>Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
+**BrACoL** 
+<p>https://data.mendeley.com/datasets/yy2k5y8mxg
+Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
 “BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”, 
-Mendeley Data, V1, doi: 10.17632/yy2k5y8mxg.1</p>
-http://dx.doi.org/10.17632/yy2k5y8mxg.1
+Mendeley Data, V1, doi: <a href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</p>
 
 https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
 <p>Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
