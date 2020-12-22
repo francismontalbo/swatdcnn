@@ -1,13 +1,8 @@
-# Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)
-
 # Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network
-
+Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)
 Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io) 
 
 ## Abstract
-
-
-
 
 ## DATASETS
 
@@ -30,7 +25,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
 Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
 Deep learning for classification and severity estimation of coffee leaf biotic stress. 
 Computers and Electronics in Agriculture, 169, 105162.
-
 
 LiCoLe https://ijain.org/index.php/IJAIN/article/view/495/0
 MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
@@ -59,7 +53,7 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 - scipy
 - tensorflow-gpu==1.14.0
 
-# Instructions:
+## Instructions:
 
 Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.
 
@@ -73,9 +67,9 @@ Then simply enter the command in the conda CLI `pip install -r requirements.txt`
 
 Once installed, you may either train the models individually or make use of the pre-trained weights on the give link.
 
-## Pre-trained weights required by the SWAT-DCNN
+**Pre-trained weights required by the SWAT-DCNN
 
-** T-DCNN Weights Link **
+**T-DCNN Weights Link
 
 Make sure to save the links under the `/models/` folder.
 
