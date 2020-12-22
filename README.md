@@ -21,9 +21,9 @@ The dataset used for this work came from the following works:
 <i>Mendeley Data</i>, V2, doi: <a target=_blank href="http://dx.doi.org/10.17632/c5yvn32dzg.2">10.17632/c5yvn32dzg.2</a></p>
 
 Inclusion: 
-- [x] Healthy
-- [x] Coffee Leaf Rust (CLR)
-- [x] Red Spider Mites (RSM) 
+- :heavy_check_mark: Healthy
+- :heavy_check_mark: Coffee Leaf Rust (CLR)
+- :heavy_check_mark: Red Spider Mites (RSM) 
 
 **BrACoL** 
 <p>Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
@@ -36,11 +36,11 @@ Inclusion:
 169, 105162. doi:<a href="https://doi.org/10.1016/j.compag.2019.105162">10.1016/j.compag.2019.105162</a></p>
 
 Inclusion: 
-- [x] Healthy
-- [x] CLR
-- [x] Cercospora Leaf Spots (CLS)
-- [x] Phoma Leaf Spots (PLS)
-- [x] Coffee Leaf Miner (CLM)
+- :heavy_check_mark: Healthy
+- :heavy_check_mark: CLR
+- :heavy_check_mark: Cercospora Leaf Spots (CLS)
+- :heavy_check_mark: Phoma Leaf Spots (PLS)
+- :heavy_check_mark: Coffee Leaf Miner (CLM)
 
 **LiCoLe**
 <p>Montalbo, Francis Jesmar Perez; Hernandez, Alexander Arsenio (2020) 
@@ -49,9 +49,9 @@ Inclusion:
 [S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</a></p>
 
 Inclusion: 
-- [x] Healthy
-- [x] CLR
-- [x] Sooty Molds (SM)
+- :heavy_check_mark: Healthy
+- :heavy_check_mark: CLR
+- :heavy_check_mark: Sooty Molds (SM)
 
 ***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
 ***Please remember to cite their work when using their respective datasets.***
