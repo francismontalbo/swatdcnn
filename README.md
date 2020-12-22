@@ -15,7 +15,7 @@ The dataset used for this work came from the following works:
 **RoCoLe** 
 <p>Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
 “RoCoLe: A robusta coffee leaf images dataset ”, 
-Mendeley Data, V2, doi: <a target=_blank href="http://dx.doi.org/10.17632/c5yvn32dzg.2">10.17632/c5yvn32dzg.2</p>
+Mendeley Data, V2, doi: <a target=_blank href="http://dx.doi.org/10.17632/c5yvn32dzg.2">10.17632/c5yvn32dzg.2</a></p>
 
 Inclusion: 
 - [x] Healthy
@@ -25,7 +25,7 @@ Inclusion:
 **BrACoL** 
 <p>Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
 “BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”, 
-Mendeley Data, V1, doi: <a target=_blank href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</p>
+Mendeley Data, V1, doi: <a target=_blank href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</a></p>
 
 <p>https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
 <p>Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
@@ -43,7 +43,7 @@ Inclusion:
 <p>MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
 Classifying Barako coffee leaf diseases using deep convolutional models. 
 International Journal of Advances in Intelligent Informatics, 
-[S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</p>
+[S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</a></p>
 
 Inclusion: 
 - [x] Healthy
