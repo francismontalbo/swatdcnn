@@ -12,8 +12,8 @@
 
 ## DATASETS
 
-The dataset used for this work came from the following works:
-**Please citie their work when using it!** 
+<p>The dataset used for this work came from the following works:</p>
+**Please cite their work when using it!** 
 
 **RoCoLe** 
 <p>Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
