@@ -134,10 +134,10 @@ Make sure to save the links under the `/models/` folder.
   </tr>
   <tr>
     <td>SWAT-DCNN</td>
-    <td><span style="font-weight:bold">95.98%</span></td>
-    <td><span style="font-weight:bold">96.27%</span></td>
-    <td><span style="font-weight:bold">95.98%</span></td>
-    <td><span style="font-weight:bold">95.91%</span></td>
+    <td><strong>95.98%</strong></td>
+    <td><strong>96.27%</strong></td>
+    <td><strong>95.98%</strong></td>
+    <td><strong>95.91%</strong></td>
   </tr>
   <tr>
     <td>Base T-DCNN</td>
