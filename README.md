@@ -10,17 +10,20 @@ Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io)
 ## DATASETS
 
 The dataset used for this work came from the following works:
-** Please consider citing their work when using it ** 
+**Please consider citing their work when using it** 
 
-RoCoLe https://data.mendeley.com/datasets/c5yvn32dzg/2
+**RoCoLe** https://data.mendeley.com/datasets/c5yvn32dzg/2
 Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
 “RoCoLe: A robusta coffee leaf images dataset ”, 
 Mendeley Data, V2, doi: 10.17632/c5yvn32dzg.2
 http://dx.doi.org/10.17632/c5yvn32dzg.2
 
-Inclusion: Healthy, Cercospora Leaf Rust (CLR), Red Spider Mites (RSM) 
+Inclusion: 
+- [x] Healthy
+- [x] Coffee Leaf Rust (CLR)
+- [x] Red Spider Mites (RSM) 
 
-BrACoL https://data.mendeley.com/datasets/yy2k5y8mxg
+**BrACoL** https://data.mendeley.com/datasets/yy2k5y8mxg
 Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
 “BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”, 
 Mendeley Data, V1, doi: 10.17632/yy2k5y8mxg.1
@@ -31,9 +34,14 @@ Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020).
 Deep learning for classification and severity estimation of coffee leaf biotic stress. 
 Computers and Electronics in Agriculture, 169, 105162.
 
-Inclusion: Healthy, CLR, Cercospora Leaf Spots (CLS), Phoma Leaf Spots (PLS), Coffee Leaf Miner (CLM), Red Spider Mites (RSM) 
+Inclusion: 
+- [x] Healthy
+- [x] CLR
+- [x] Cercospora Leaf Spots (CLS)
+- [x] Phoma Leaf Spots (PLS)
+- [x] Coffee Leaf Miner (CLM)
 
-LiCoLe https://ijain.org/index.php/IJAIN/article/view/495/0
+**LiCoLe** https://ijain.org/index.php/IJAIN/article/view/495/0
 MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
 Classifying Barako coffee leaf diseases using deep convolutional models. 
 International Journal of Advances in Intelligent Informatics, 
@@ -41,7 +49,10 @@ International Journal of Advances in Intelligent Informatics,
 Available at: <https://ijain.org/index.php/IJAIN/article/view/495%7Cto_array%3A0>. 
 doi:https://doi.org/10.26555/ijain.v6i2.495.
 
-Inclusion: Healthy, CLR, Sooty Molds (SM)
+Inclusion: 
+- [x] Healthy
+- [x] CLR
+- [x] Sooty Molds (SM)
 
 #### For the readily prepared dataset used in this work refer to this link
 ** Google Drive Link **
