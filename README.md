@@ -50,12 +50,14 @@ Inclusion:
 - [x] CLR
 - [x] Sooty Molds (SM)
 
+***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
+***Please remember to cite their work when using their respective datasets.***
 
 ## Pre-trained Weights
 **For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
+<p> The pre-trained weights are the plug and play weights for the SWAT-DCNN model </p>
 
-***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
-***Please remember to cite their work when using their respective datasets.***
+
 
 ## Environment Setup:
 
@@ -88,7 +90,7 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
-**If you don't want to perform any training and just want to proceed with the simulation then go get the pre-trained weights** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
+**For an immediate simulation refer to the pre-trained weights** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
 **T-DCNN Weights Link
 
