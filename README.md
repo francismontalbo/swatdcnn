@@ -12,6 +12,7 @@
 ## DATASETS
 
 The dataset used for this work came from the following works:
+** Please consider citing their work when using it ** 
 
 ### RoCoLe https://data.mendeley.com/datasets/c5yvn32dzg/2
 Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
