@@ -71,7 +71,13 @@ Activate and access the folder
 
 Then simply enter the command in the conda CLI `pip install -r requirements.txt`
 
-Once installed, you may either the models individually or make use of the pre-trained weights.
+Once installed, you may either train the models individually or make use of the pre-trained weights on the give link.
+
+## Pre-trained weights required by the SWAT-DCNN
+
+** T-DCNN Weights Link **
+
+Make sure to save the links under the `/models/` folder.
 
 
 
