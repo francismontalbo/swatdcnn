@@ -45,7 +45,7 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 
 ** Note ** The following dataset credits still goes to their appropriate owners and collectors
 
-## Requirments
+## Dependencies
 - efficientnet==1.1.1
 - colorama==0.4.3
 - jupyter==1.0.0
@@ -59,7 +59,7 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 - scipy
 - tensorflow-gpu==1.14.0
 
-# Requirements:
+# Instructions:
 
 Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.
 
