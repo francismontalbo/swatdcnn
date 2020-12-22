@@ -53,7 +53,7 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 - scipy
 - tensorflow-gpu==1.14.0
 
-## Instructions:
+## Environment Setup:
 
 Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.
 
@@ -73,13 +73,15 @@ Once installed, you may either train the models individually or make use of the 
 
 Make sure to save the links under the `/models/` folder.
 
-# How to use:
+## How to use:
 
 1. Run the system by going to the swatdcnn folder with your created virtual environment activated and enter the command `python swatdcnn.py`
 
 2. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
 
 **In case of any problems, don't hesitate to contact me. I'll be happy to help.**
+
+# NOTICE
 
 This GitHub repository serves as a support for the submitted publication article in **_UNDER REVIEW_**
 
