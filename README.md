@@ -5,13 +5,13 @@
 <p>E-mail: francismontalbo@ieee.org</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
-## Graphical Abstract :art:
+## Graphical Abstract
 
 <b>Made with <a target=_blank href="https://draw.io">draw.io</a></b>
 <img src="/graphical_abstract_diverse_coffee.jpg" alt="Stage Wise Aggregated Triple Deep Convolutional Neural Network for Coffee Leaf Diagnosis" width="1000">
 
 
-## DATASETS :floppy_disk:
+## DATASETS
 
 <p>The dataset used for this work came from the following works:</p>
 
@@ -59,11 +59,11 @@ Inclusion:
 ***:heavy_exclamation_mark: Please remember to cite their work when using their respective datasets.***
 
 ## Pre-trained Weights ##
-<span>:muscle:</span>
+
 **:warning: For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
 
-## Environment Setup :computer:
+## Environment Setup
 
 ***:heavy_exclamation_mark: Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.***
 
