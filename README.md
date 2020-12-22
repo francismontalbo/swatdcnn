@@ -7,7 +7,7 @@
 
 ## Graphical Abstract
 
-<b>Made with <a href="https://draw.io">draw.io</a></b>
+<b>Made with <a target=_blank href="https://draw.io">draw.io</a></b>
 <img src="/graphical_abstract_diverse_coffee.jpg" alt="Stage Wise Aggregated Triple Deep Convolutional Neural Network for Coffee Leaf Diagnosis" width="1000">
 
 
