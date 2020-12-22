@@ -28,7 +28,7 @@ Inclusion:
 Mendeley Data, V1, doi: <a target=_blank href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</a></p>
 
 <p>https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
-<p>Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
+Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
 Deep learning for classification and severity estimation of coffee leaf biotic stress. 
 Computers and Electronics in Agriculture, 169, 105162.</p>
 
@@ -39,7 +39,7 @@ Inclusion:
 - [x] Phoma Leaf Spots (PLS)
 - [x] Coffee Leaf Miner (CLM)
 
-**LiCoLe** https://ijain.org/index.php/IJAIN/article/view/495/0
+**LiCoLe**
 <p>MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
 Classifying Barako coffee leaf diseases using deep convolutional models. 
 International Journal of Advances in Intelligent Informatics, 
