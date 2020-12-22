@@ -51,9 +51,10 @@ Inclusion:
 - [x] Sooty Molds (SM)
 
 #### For the readily prepared dataset used in this work refer to this link
-** Google Drive Link **
 
-** Note ** The following dataset credits still goes to their appropriate owners and collectors
+**Google Drive Link**
+
+***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors***
 
 ## Environment Setup:
 
