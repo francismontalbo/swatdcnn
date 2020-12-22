@@ -34,6 +34,8 @@ International Journal of Advances in Intelligent Informatics,
 Available at: <https://ijain.org/index.php/IJAIN/article/view/495%7Cto_array%3A0>. 
 doi:https://doi.org/10.26555/ijain.v6i2.495.
 
+#### For the readily prepared dataset used in this work refer to this link
+** Google Drive Link **
 
 
 
