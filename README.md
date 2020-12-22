@@ -79,7 +79,7 @@ Make sure to save the links under the `/models/` folder.
 
 ## How to use:
 
-**Training with the pre-trained weights**
+**Training with the pre-trained weights (RECOMMENDED)** 
 
 1. Run the system by going to the swatdcnn folder with your created virtual environment activated and enter the command `python swatdcnn.py`
 
