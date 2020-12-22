@@ -52,18 +52,18 @@ Inclusion:
 
 
 
-**For the readily prepared dataset used in this work refer to this link &#8594; Google Drive Link**
+**For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 
 ***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
 ***Please remember to cite their work when using their respective datasets.***
 
 ## Environment Setup:
 
-Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.
+***Make sure to create a new virtual environment preferably in Anaconda. Use Python 3.5.***
 
-https://www.anaconda.com/
+:arrow_right: https://www.anaconda.com/
 
-https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+:arrow_right: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
 Activate and access the folder `swatdcnn/` with the included `requirements.txt` file.
 
