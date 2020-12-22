@@ -48,11 +48,11 @@ https://www.anaconda.com/
 
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
-Activate and access the folder `swatdcnn/` folder. This will access the `requirements.txt` file.
+Activate and access the folder `swatdcnn/` with the included `requirements.txt` file.
 
 **This uses a tensorflow GPU**
 
-Then simply enter the command in the conda CLI `pip install -r requirements.txt`
+Afterwards, simply enter the command in the conda CLI `pip install -r requirements.txt`
 
 Dependencies include: 
 - efficientnet==1.1.1
@@ -69,7 +69,7 @@ Dependencies include:
 - scipy
 - tensorflow-gpu==1.14.0
 
-Once installed, you may either train the models individually or make use of the pre-trained weights on the give link.
+Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
 **Pre-trained weights required by the SWAT-DCNN
 
