@@ -1,4 +1,4 @@
-# Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network
+# Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network :leaves: :coffee:
 Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)
 Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io) 
 
@@ -55,7 +55,7 @@ Inclusion:
 
 ## Pre-trained Weights
 **For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
-<p>The pre-trained weights are the plug and play weights for the SWAT-DCNN model. This can be used to skip the training and compilation of models for the SWAT-DCNN</p>
+<p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
 
 ## Environment Setup:
 
@@ -115,8 +115,6 @@ Make sure to save the links under the `/models/` folder.
 5. After all T-DCNN models are built, you may now run the `swatdcnn.py` from the main `swatdcnn/` folder.
 
 6. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
-
-
 
 **In case of any problems, don't hesitate to contact me. I'll be happy to help.**
 
