@@ -79,9 +79,27 @@ Make sure to save the links under the `/models/` folder.
 
 ## How to use:
 
+**Training with the pre-trained weights**
+
 1. Run the system by going to the swatdcnn folder with your created virtual environment activated and enter the command `python swatdcnn.py`
 
 2. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
+
+**Training from scratch**
+
+1. Activate your created virtual environment and enter the main `swatdcnn/` folder.
+
+2. Save the dataset folder inside the `swatdcnn/` as `swatdcnn/dataset/`
+
+3. Open the `.ipynb` files from the `swatdcnn/models` folder and run the following in your preferred order. The `swatdcnn/models/tdcnn/` is saved for later.
+
+4. Once all models from stage-1 to 3 are trained. You may now open the `swatdcnn/models/tdcnn/` folder to build the T-DCNN models.
+
+5. After all T-DCNN models are built, you may now run the `swatdcnn.py` from the main `swatdcnn/` folder.
+
+6. Follow through the given instructions and make sure to use the test sample from the provided `/test/` folder
+
+
 
 **In case of any problems, don't hesitate to contact me. I'll be happy to help.**
 
