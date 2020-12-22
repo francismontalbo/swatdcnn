@@ -19,12 +19,17 @@ Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019),
 Mendeley Data, V2, doi: 10.17632/c5yvn32dzg.2
 http://dx.doi.org/10.17632/c5yvn32dzg.2
 
-
 ### BrACoL https://data.mendeley.com/datasets/yy2k5y8mxg
 Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
 “BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”, 
 Mendeley Data, V1, doi: 10.17632/yy2k5y8mxg.1
 http://dx.doi.org/10.17632/yy2k5y8mxg.1
+
+https://www.sciencedirect.com/science/article/abs/pii/S0168169919313225
+Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020). 
+Deep learning for classification and severity estimation of coffee leaf biotic stress. 
+Computers and Electronics in Agriculture, 169, 105162.
+
 
 ### LiCoLe https://ijain.org/index.php/IJAIN/article/view/495/0
 MONTALBO, Francis Jesmar Perez; HERNANDEZ, Alexander Arsenio. 
@@ -36,6 +41,8 @@ doi:https://doi.org/10.26555/ijain.v6i2.495.
 
 #### For the readily prepared dataset used in this work refer to this link
 ** Google Drive Link **
+
+** Note ** The following dataset credits still goes to their appropriate owners and collectors
 
 
 
