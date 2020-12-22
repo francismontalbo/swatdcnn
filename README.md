@@ -48,7 +48,9 @@ https://www.anaconda.com/
 
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
-Activate and access the folder
+Activate and access the folder `swatdcnn/` folder. This will access the `requirements.txt` file.
+
+**This uses a tensorflow GPU**
 
 Then simply enter the command in the conda CLI `pip install -r requirements.txt`
 
