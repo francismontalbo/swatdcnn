@@ -58,7 +58,8 @@ Inclusion:
 ***:warning: NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
 ***:heavy_exclamation_mark: Please remember to cite their work when using their respective datasets.***
 
-## Pre-trained Weights :muscle:
+## Pre-trained Weights ##
+<span>:muscle:</span>
 **:warning: For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
 
@@ -93,7 +94,7 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
-**:heavy_exclamation_mark: For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights-:muscle:">Pre-Trained Weights</a>
+**:heavy_exclamation_mark: For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
 **:heavy_exclamation_mark: Make sure to save the links under the** `/models/` folder.
 
