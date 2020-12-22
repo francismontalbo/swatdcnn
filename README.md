@@ -1,6 +1,6 @@
 # Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network :leaves: :coffee:
-Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)
-Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io) 
+<p>Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)</p>
+<p>Author: [Francis Jesmar P. Montalbo](https://francismontalbo.github.io)</p>
 
 ## Graphical Abstract
 
