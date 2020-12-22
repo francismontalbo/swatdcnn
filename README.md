@@ -14,8 +14,8 @@ The dataset used for this work came from the following works:
 
 **RoCoLe** 
 <p>Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), 
-“RoCoLe: A robusta coffee leaf images dataset ”, 
-Mendeley Data, V2, doi: <a target=_blank href="http://dx.doi.org/10.17632/c5yvn32dzg.2">10.17632/c5yvn32dzg.2</a></p>
+<b>“RoCoLe: A robusta coffee leaf images dataset ”</b>
+<i>Mendeley Data</i>, V2, doi: <a target=_blank href="http://dx.doi.org/10.17632/c5yvn32dzg.2">10.17632/c5yvn32dzg.2</a></p>
 
 Inclusion: 
 - [x] Healthy
@@ -24,12 +24,12 @@ Inclusion:
 
 **BrACoL** 
 <p>Krohling, Renato; esgario, José; Ventura, Jose A. (2019),
-“BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests” 
-Mendeley Data, V1, doi: <a target=_blank href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</a></p>
+<b>“BRACOL - A Brazilian Arabica Coffee Leaf images dataset to identification and quantification of coffee diseases and pests”</b>
+<i>Mendeley Data</i>, V1, doi: <a target=_blank href="http://dx.doi.org/10.17632/yy2k5y8mxg.1">10.17632/yy2k5y8mxg.1</a></p>
 
 <p>Esgario, J. G., Krohling, R. A., & Ventura, J. A. (2020) 
-"Deep learning for classification and severity estimation of coffee leaf biotic stress" 
-Computers and Electronics in Agriculture
+<b>"Deep learning for classification and severity estimation of coffee leaf biotic stress"</b>
+<i>Computers and Electronics in Agriculture</i>
 169, 105162. doi:<a href="https://doi.org/10.1016/j.compag.2019.105162">10.1016/j.compag.2019.105162</a></p>
 
 Inclusion: 
@@ -41,8 +41,8 @@ Inclusion:
 
 **LiCoLe**
 <p>Montalbo, Francis Jesmar Perez; Hernandez, Alexander Arsenio (2020) 
-"Classifying Barako coffee leaf diseases using deep convolutional models"
-  <i>International Journal of Advances in Intelligent Informatics (IJAIN)</i>
+<b>"Classifying Barako coffee leaf diseases using deep convolutional models"</b>
+<i>International Journal of Advances in Intelligent Informatics (IJAIN)</i>
 [S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</a></p>
 
 Inclusion: 
