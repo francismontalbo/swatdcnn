@@ -91,11 +91,9 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` or make use of the pre-trained weights on the give link.
 
-**For an immediate simulation refer to the pre-trained weights** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
+**For an immediate simulation refer to the pre-trained weights.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
-**T-DCNN Weights Link
-
-Make sure to save the links under the `/models/` folder.
+**Make sure to save the links under the `/models/` folder.**
 
 ## How to use:
 
