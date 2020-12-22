@@ -122,7 +122,7 @@ Once installed, you may either train the models individually with the `.ipynb` n
 
 **:heavy_exclamation_mark: In case of any problems, don't hesitate to contact me. I'll be happy to help.**
 
-## Performance Results :bar_chart:
+## Performance Results
 
 <table style="width:100%">
   <tr>
