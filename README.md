@@ -54,7 +54,8 @@ Inclusion:
 
 **Google Drive Link**
 
-***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors***
+***NOTE: The following credits for the datasets still goes to their appropriate owners and collectors. 
+***Please remember to cite their work when using their respective datasets***
 
 ## Environment Setup:
 
