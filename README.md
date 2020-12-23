@@ -60,7 +60,7 @@ Inclusion:
 
 ## Pre-trained Weights ##
 
-**:heavy_exclamation_mark: For the readily prepared dataset used in this work refer to this link 🠊 Google Drive Link**
+**:heavy_exclamation_mark: For the readily prepared dataset used in this work refer to this link 🠊 <a target=blank_ href="https://drive.google.com/drive/folders/1WGDixz9obyEXCckANmca8UHCaI4ljC8U?usp=sharing">Google Drive Pre-Trained Weights<a/>**
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
 
 ## Environment Setup
