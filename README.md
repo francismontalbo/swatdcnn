@@ -62,6 +62,14 @@ Inclusion:
 
 **:heavy_exclamation_mark: For the readily prepared dataset used in this work refer to this link 🠊 <a target=blank_ href="https://drive.google.com/drive/folders/1WGDixz9obyEXCckANmca8UHCaI4ljC8U?usp=sharing">Google Drive Pre-Trained Weights<a/>**
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN. :relaxed:</p>
+  
+The filenames must not be changed for the `.h5` files.
+
+- `T-DCNN_stage-1.h5`
+- `T-DCNN_stage-2.h5`
+- `T-DCNN_stage-3.h5`
+
+Make sure to extract the pre-trained weights in the given manner 🠊 `swatdcnn/weights/tdcnn/`
 
 ## Environment Setup
 
