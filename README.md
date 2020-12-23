@@ -89,7 +89,7 @@ Dependencies include:
 - scipy
 - tensorflow-gpu==1.14.0
 
-Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` insides the `stage-1`, `stage-2`, and `stage-3` folders or make use of the pre-trained weights.
+Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` inside the `stage-1`, `stage-2`, and `stage-3` folders or make use of the pre-trained weights.
 
 The `swatdcnn/models/tdcnn/` files does not need to re-train. However, its a must to compile each T-DCNN stages to produce its own respective weights needed by the entire SWAT-DCNN model.
 
