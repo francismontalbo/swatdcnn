@@ -5,7 +5,7 @@
 <p>E-mail: francismontalbo@ieee.org</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
-***In the meantime, this repository is only for the purpose of simulating the proposed study. Updates will come through further progress.***
+***In the meantime, this repository pertains only for the purpose of simulating the proposed study. Updates will come through further progress.***
 
 ## Graphical Abstract
 
