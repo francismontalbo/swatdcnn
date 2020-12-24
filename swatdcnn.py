@@ -33,9 +33,6 @@ from keras.models import Model, Input, load_model
 from keras.preprocessing.image import image
 from keras import applications
 
-# from keras.preprocessing.image import ImageDataGenerator
-# import itertools
-
 tf.get_logger().setLevel(logging.ERROR)
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
