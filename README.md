@@ -59,10 +59,12 @@ Inclusion:
 - :heavy_check_mark: CLR
 - :heavy_check_mark: Sooty Molds (SM)
 
+**:heavy_exclamation_mark: For the readily prepared dataset used in this work refer to this link (OPTIONAL) 🠊 <a target=blank_ href="https://drive.google.com/drive/folders/1WGDixz9obyEXCckANmca8UHCaI4ljC8U?usp=sharing">Google Drive Pre-Trained Weights<a/>** 
+  
+`PREPARED DATASET: (7 GB)`
+
 ***:warning: NOTE: The following credits for the datasets still goes to their appropriate owners and collectors.*** 
 ***:heavy_exclamation_mark: Please remember to cite their work when using their respective datasets.***
-
-
 
 ## Environment Setup
 
@@ -100,10 +102,6 @@ The `swatdcnn/models/tdcnn/` files does not need to re-train. However, its a mus
 **:heavy_exclamation_mark: For an immediate simulation without the hassle of going over the previous instructions, refer to the pre-trained weights section.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
 ## Pre-trained Weights ##
-
-**:heavy_exclamation_mark: For the readily prepared dataset used in this work refer to this link (OPTIONAL) 🠊 <a target=blank_ href="https://drive.google.com/drive/folders/1WGDixz9obyEXCckANmca8UHCaI4ljC8U?usp=sharing">Google Drive Pre-Trained Weights<a/>** 
-  
-`PREPARED DATASET: (7 GB)`
 
 <p>The pre-trained weights are the plug and play weights that can be used to skip the training and compilation of models for the SWAT-DCNN (RECOMMENDED). :relaxed:</p>
 
