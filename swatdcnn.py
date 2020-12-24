@@ -2,16 +2,18 @@
 This program/model was made by Francis Jesmar P. Montalbo for the publication article entitled
 "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network"
 
-You can use this as you please. But please do consider citing my work and the data sources. Thank you very much!
-Any further assistance needed, please e-mail me at francismontalbo@ieee.org or francismontalbo@g.batstate-u.edu.ph
+This program serves as a support for the submitted publication article in 
+Computers and Electronics in Agriculture ISSN: 0168-1699 **SUBMITTED**
 
-Please refrain from changing anything in the code performing simulations.
+Please refrain from changing anything in the code when performing simulations.
 
 You may visit my official webpage at https://francismontalbo.github.io
 
 """
 print("INITIALIZING SWAT-DCNN MODEL")
 print("THIS MAY TAKE A WHILE , PLEASE BE PATIENT")
+
+#Import essential libraries
 
 import os
 import logging
@@ -33,8 +35,6 @@ from keras import applications
 
 # from keras.preprocessing.image import ImageDataGenerator
 # import itertools
-
-
 
 tf.get_logger().setLevel(logging.ERROR)
 
@@ -233,6 +233,8 @@ def print_report(results):
 
         print()
 
+
+#GUI Display 
 
 def show_gui(input_image, results):
     if results["swatdcnn_stage3"]:
