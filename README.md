@@ -91,7 +91,7 @@ Dependencies include:
 
 Once installed, you may either train the models individually with the `.ipynb` notebooks found in `swatdcnn/models/` inside the `stage-1`, `stage-2`, and `stage-3` folders or make use of the pre-trained weights.
 
-The `swatdcnn/models/tdcnn/` files does not need to re-train. However, its a must to compile each T-DCNN stages to produce its own respective weights needed by the entire SWAT-DCNN model.
+The `swatdcnn/models/tdcnn/` files does not need to re-train. However, its a must to compile and aggregate the T-DCNN stages to produce its own respective weights needed by the entire SWAT-DCNN model.
 
 **:heavy_exclamation_mark: For an immediate simulation without the hassle of going over the previous instructions, refer to the pre-trained weights section.** 🠊 <a href="https://github.com/francismontalbo/swatdcnn#Pre-trained-Weights">Pre-Trained Weights</a>
 
