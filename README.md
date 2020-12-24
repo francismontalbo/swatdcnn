@@ -5,6 +5,8 @@
 <p>E-mail: francismontalbo@ieee.org</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
+<p>This GitHub repository serves as a support for the submitted publication article in <a href="https://www.journals.elsevier.com/computers-and-electronics-in-agriculture">Computers and Electronics in Agriculture</a> ISSN: 0168-1699 **SUBMITTED**</p>
+
 ***In the meantime, this repository pertains only for the purpose of simulating the proposed study. Updates will come through further progress.***
 
 ## Graphical Abstract
