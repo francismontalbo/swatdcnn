@@ -210,7 +210,7 @@ Make sure to extract the pre-trained weights in the given manner 🠊 `swatdcnn/
 
 ## Citation :black_nib:
 
-This GitHub repository serves as a support for the submitted publication article in <a href="https://www.journals.elsevier.com/computers-and-electronics-in-agriculture">Computers and Electronics in Agriculture</a> ISSN: 0168-1699 **SUBMITTED**
+This GitHub repository serves as a support for the submitted publication article in <a href="https://www.journals.elsevier.com/computers-and-electronics-in-agriculture">Computers and Electronics in Agriculture</a> ISSN: 0168-1699 **WITH EDITOR**
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
