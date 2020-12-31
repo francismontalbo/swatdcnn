@@ -2,6 +2,7 @@ efficientnet==1.1.1
 colorama==0.4.3
 jupyter==1.0.0
 keras==2.2.5
+matplotlib
 numpy==1.16.2
 opencv-python==4.4.0.42
 pandas==0.25.3
