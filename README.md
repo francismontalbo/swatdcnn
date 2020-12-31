@@ -76,7 +76,9 @@ Inclusion:
 
 Activate and access the folder `swatdcnn/` with the included `requirements.txt` file.
 
-**:warning: The SWAT-DCNN uses the tensorflow GPU**
+**:warning: The SWAT-DCNN uses the tensorflow GPU. This may also require at least CUDA 10**
+
+:warning: https://developer.nvidia.com/cuda-toolkit
 
 Afterwards, simply enter the command in the conda CLI `pip install -r requirements.txt`
 
