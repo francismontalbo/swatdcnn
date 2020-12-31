@@ -11,5 +11,5 @@ scikit-learn
 scikit-image
 scikit-plot
 scipy
-tensorflow-gpu>=1.14.0
+tensorflow-gpu<=1.15.0
 
