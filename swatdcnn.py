@@ -2,8 +2,7 @@
 This program/model was made by Francis Jesmar P. Montalbo for the publication article entitled
 "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network"
 
-This program serves as a support for the submitted publication article in 
-Computers and Electronics in Agriculture ISSN: 0168-1699 **SUBMITTED**
+This program serves as a support for the submitted publication article in Machine Vision and Applications.
 
 Please refrain from changing anything in the code when performing simulations.
 
