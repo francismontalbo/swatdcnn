@@ -5,7 +5,8 @@
 <p>E-mail: francismontalbo@ieee.org</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
-This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications
+***:warning: This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications ISSN: 0932-8092***
+***FUTURE UPDATES AND OTHER CODES WILL BE PUSHED ONCE ACCEPTED***
 
 ***In the meantime, this repository pertains only for the purpose of simulating the proposed study. Updates will come through further progress.***
 
