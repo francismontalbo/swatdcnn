@@ -2,7 +2,7 @@
 **Stage Wise Aggregated Triple Deep Convolutional Neural Network (SWAT-DCNN)**
 <p>Author: Francis Jesmar P. Montalbo</p>
 <p>Affiliation: Batangas State University</p>
-<p>E-mail: francismontalbo@ieee.org</p>
+<p>E-mail: francismontalbo@ieee.org; francisjesmar.montalbo@g.batstate-u.edu.ph</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
 ***:warning: This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications ISSN: 0932-8092***
