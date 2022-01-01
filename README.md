@@ -5,7 +5,7 @@
 <p>E-mail: francismontalbo@ieee.org; francisjesmar.montalbo@g.batstate-u.edu.ph</p>
 <p>Webpage: https://francismontalbo.github.io</p>
 
-***This repository is from an ACCEPTED research paper to be published in :horse: Springer: Machine Vision and Applications ISSN: 0932-8092.***
+***This repository is a support for an ACCEPTED research paper to be published in Springer :horse: : Machine Vision and Applications ISSN: 0932-8092.***
 
 **F. J. P. Montalbo, "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network," Machine Vision and Applications, In-press, 2022.**
 
