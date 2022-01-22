@@ -8,8 +8,12 @@
 ***Work is published in Machine Vision and Applications ISSN: 0932-8092.***
 
 ## CITE
-**Montalbo, F.J.P, "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network," Machine Vision and Applications, vol. 33, no. 1, 2022. DOI: 10.1007/s00138-022-01277-y.**
+**Montalbo, F.J.P, "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network," Machine Vision and Applications, vol. 33, no. 1, pp. 1-22, 2022. DOI: 10.1007/s00138-022-01277-y.**
 
+Full paper access LINK:
+https://link.springer.com/epdf/10.1007/s00138-022-01277-y?sharing_token=f8QRuXIgbHYoX4Ie9cAyhfe4RwlQNchNByi7wbcMAY5HInYw8kOdtP13cIiMaMWSKhoxFuB4Ar2PctzUJbjRUgfc00h_Az1pMSXF400fN15Dw-S1A-X04TfHDFsG_0niIhbxGnOZvEPVG3bLBq-zsheUavU3Nvox0AfknLjwDIA%3D
+
+Original Paper Link:
 https://link.springer.com/article/10.1007%2Fs00138-022-01277-y?fbclid=IwAR0nzpHsp4IaE42WywQ1xtXLJDOagDLTR4yf6_6YFgxiIiUI3mvr2Nke6Do
 
 ## Graphical Abstract
