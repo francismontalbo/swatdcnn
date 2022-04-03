@@ -61,6 +61,11 @@ Inclusion:
 <i>International Journal of Advances in Intelligent Informatics (IJAIN)</i>
 [S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: <a href="https://doi.org/10.26555/ijain.v6i2.495">10.26555/ijain.v6i2.495</a></p>
 
+<p>Montalbo, Francis Jesmar Perez
+<b>"An Optimized Classification Model for Coffea Liberica Disease using Deep Convolutional Neural Networks"</b>
+<i>n Proc. of the 2020 16th IEEE International Colloquium on Signal Processing & Its Applications (CSPA),</i> 
+  Langkawi, Malaysia, 2020, pp. 213-218, doi: <a href="https://ieeexplore.ieee.org/document/9068683">10.1109/CSPA48992.2020.9068683</a>.</p>
+
 Inclusion: 
 - :heavy_check_mark: Healthy
 - :heavy_check_mark: CLR
