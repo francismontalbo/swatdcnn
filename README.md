@@ -227,7 +227,7 @@ Make sure to extract the pre-trained weights in the given manner 🠊 `swatdcnn/
 
 ## Citation :black_nib:
 
-This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications
+**Montalbo, F.J.P, "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network," Machine Vision and Applications, vol. 33, no. 1, pp. 1-22, 2022. DOI: 10.1007/s00138-022-01277-y.**
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
