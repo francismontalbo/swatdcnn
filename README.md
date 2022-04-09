@@ -228,6 +228,10 @@ Make sure to extract the pre-trained weights in the given manner 🠊 `swatdcnn/
 ## Citation :black_nib:
 
 **Montalbo, F.J.P, "Automated Diagnosis of Diverse Coffee Leaf Images through a Stage-Wise Aggregated Triple Deep Convolutional Neural Network," Machine Vision and Applications, vol. 33, no. 1, pp. 1-22, 2022. DOI: 10.1007/s00138-022-01277-y.**
+  
+**F. J. P. Montalbo and A. A. Hernandez, "Classifying Barako coffee leaf diseases using deep convolutional models," International Journal of Advances in Intelligent Informatics (IJAIN), vol. 6, no. 2, p. 197, 2020. doi: 10.26555/ijain.v6i2.495.**
+  
+**F. J. P. Montalbo and A. A. Hernandez, "An Optimized Classification Model for Coffea Liberica Disease using Deep Convolutional Neural Networks," In Proc. of the 2020 16th IEEE International Colloquium on Signal Processing & Its Applications (CSPA), Langkawi, Malaysia, 2020, pp. 213-218, doi: 10.1109/CSPA48992.2020.9068683.**
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
